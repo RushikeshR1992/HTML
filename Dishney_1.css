@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.div .p{
+    border-radius: 10px 10px;
+    background-color: red;
+}
+/*  
+ .main{
+    width: 100%;
+    padding-top: 20px;
+    background-color:#ffffff;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+.font1{
+    display: flex;
+}
+.font1 span{
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    height: inherit;
+}
+.middle .image2{
+    height: inherit;
+   display: flex;
+   justify-content: space-around;
+   margin: 1% 0% 0% 0%;
+}
+.production .productimage{
+    height: inherit;
+   display: flex;
+   justify-content: space-around;
+   margin-top: 1%;
+}
+.thirdpart .image3{
+    display: flex;
+    margin-top: 1%; 
+    justify-content: space-evenly;
+    
+}
+.thirdpart .image3 img{
+    height: inherit;
+}
+
+ */
